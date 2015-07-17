@@ -1,1 +1,1 @@
-include ':app', ':sampletabandviewpager'
+include ':app', ':sampletabandviewpager', ':sampleCoordinatorAndViewPager'
